@@ -36,16 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=TayyipEmir1&theme=radical&hide_border=true" 
-    width="400"
-  />
-</p>
-
----
 
 #### Top Repositories
 
